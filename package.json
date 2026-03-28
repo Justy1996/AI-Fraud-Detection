@@ -1,0 +1,12 @@
+{
+  "name": "new-ai",
+  "version": "1.0.0",
+  "description": "AI Fraud Detection System for Mobile Money",
+  "main": "app.py",
+  "scripts": {
+    "start": "python -m pip install -r requirements.txt && python start.py",
+    "dev": "python -m pip install -r requirements.txt && python start.py"
+  },
+  "author": "Group Four",
+  "license": "MIT"
+}
