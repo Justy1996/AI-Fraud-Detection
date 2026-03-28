@@ -1,5 +1,8 @@
-flask
-scikit-learn
+streamlit
 pandas
 numpy
-mysql-connector-python
+xgboost
+scikit-learn
+imbalanced-learn
+plotly
+joblib
